@@ -6,10 +6,10 @@ By day, I'm a "full stack" Sr. Technology leader implementing and operating Clou
 
 ### My Latest Release - Feb 2026
 
-**[Azure Storage Queue Toolkit](https://marketplace.visualstudio.com/items?itemName=JeffSchedin.azure-storage-queue-toolkit)** — A VS Code extension for Azure Storage Queues that goes far beyond Microsoft's 32-message peek limit. Deep Peek, bulk operations, test message generation, and blob storage management.
+**[Azure Storage Queue Toolkit](https://marketplace.visualstudio.com/items?itemName=JeffSchedin.azure-queue-explorer)** — A VS Code extension for Azure Storage Queues that goes far beyond Microsoft's 32-message peek limit. Deep Peek, bulk operations, test message generation, and blob storage management.
 
-[![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/JeffSchedin.azure-storage-queue-toolkit?label=VS%20Code%20Marketplace&color=0078D4)](https://marketplace.visualstudio.com/items?itemName=JeffSchedin.azure-storage-queue-toolkit)
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/JeffSchedin.azure-storage-queue-toolkit?color=0078D4)](https://marketplace.visualstudio.com/items?itemName=JeffSchedin.azure-storage-queue-toolkit)
+[![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/JeffSchedin.azure-queue-explorer?label=VS%20Code%20Marketplace&color=0078D4)](https://marketplace.visualstudio.com/items?itemName=JeffSchedin.azure-queue-explorer)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/JeffSchedin.azure-queue-explorer?color=0078D4)](https://marketplace.visualstudio.com/items?itemName=JeffSchedin.azure-queue-explorer)
 
 ---
 
